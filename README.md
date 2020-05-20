@@ -1,6 +1,6 @@
-# Functionality Prediction 
-
 ![Title-Slide](Images/tanzania.jpg)
+
+# Functionality Prediction 
 
 ### Overview
 
