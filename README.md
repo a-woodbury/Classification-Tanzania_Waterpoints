@@ -1,4 +1,4 @@
-![Title-Slide](Images/tanzania.jpg)
+![Title-Slide](https://github.com/a-woodbury/Water_World/blob/master/Resources/waterworldsplash.jpg)
 
 # Title
 
