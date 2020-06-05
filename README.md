@@ -30,10 +30,6 @@ Other              : <a href=Link>Recreating the Model Guide</a>, <a href=Link>D
 
 ## Problem
 
-
-
-
-
 ## Data
 
 
@@ -41,17 +37,8 @@ Other              : <a href=Link>Recreating the Model Guide</a>, <a href=Link>D
 
 ## Results
 
-
 ### Improving the current model
 
-
-## Recommendations:
-
-
-- Intervening in accidental or intentional poisoning
-
-
- 
 ## Future
 
 
@@ -81,19 +68,3 @@ Application  :
 </pre>
 
 ## Works Cited
-
-
-
-
-
-
-
-
-#
-
-
-#
-### Project Members
-
-   - <b>[Alphonso Woodbury](https://github.com/a-woodbury)</b>
-   - <b>[Rashid Baset](https://github.com/rashidbaset)</b>
