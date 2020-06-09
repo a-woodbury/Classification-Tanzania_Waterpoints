@@ -36,7 +36,7 @@ In Tanzania, only approximately 50% of the Tanzanian population have access to s
 
 Key to understanding the data more fully is identifying how it was collected for the waterpoints. We found the XX organization provides a form for volunteers to complete when inspectiving waterpoints. From our EDA and observations, we have a theory that many of the beguiling observation data is result of the volunteer not knowing the best or most consisten answer and leaving it blank or selecting a close but vague record. This is best seen by observing the water quality data:
 
-![qual.jpg](https://github.com/a-woodbury/Glass_Half-full/blob/master/Resources/Screen%20Shot%202020-04-17%20at%207.47.45%20AM.png)
+![qual.jpg](https://github.com/a-woodbury/Glass_Half-full/blob/master/Resources/form.png)
 
 **Classes**
 
