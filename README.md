@@ -1,4 +1,4 @@
-![Title-Slide](https://github.com/a-woodbury/Water_World/blob/master/Resources/waterworldsplash.jpg)
+![Title-Slide](https://github.com/a-woodbury/Water_World/blob/master/Resources/ghfsplash.jpg)
 
 **Improving water availability in Tanzania by predicting waterpoint function**
 
