@@ -4,7 +4,7 @@
 
 ### Overview
 
-In Tanzania, only approximately 50% of the Tanzanian population have access to safe water. According to 2015 Tanzania Water Point Mapping data, about 29 percent of all water points are non-functional, out of which 20 percent failed within the first year. Using data from Taarifa and the Tanzanian Minisitry of Water, we were interested in predicting which pumps in Tanzania are functional and which pumps need repair. An understanding of which waterpoints will fail can improve maintence operations and ensure that potable, clean water is available to communities across Tanzania.
+Tanzanian waterpoints require maintenance to ensure proper water supplyto the local population. We have a dataset with features of each waterpoint and their current function status. After exploring the features of the dataset, we will develop a series of models and identify the most accurate for implementation. 
 
 ### Repository Navigation
 <pre>
@@ -14,18 +14,20 @@ Presentation       : <a href=https://github.com/a-woodbury/Water_World/blob/mast
 
 ### ReadME Navigation
 
-[Problem](https://github.com/a-woodbury/Water_World/blob/master/README.md#problem) - 
-[Data](https://github.com/a-woodbury/Water_World#data) -
-[Model](https://github.com/a-woodbury/Water_World#model) -
-[Results](https://github.com/a-woodbury/Water_World#results) - 
-[Recommendations](https://github.com/a-woodbury/Water_World#recommendations) - 
-[Future](https://github.com/a-woodbury/Water_World#future) - 
-[Project Info](https://github.com/a-woodbury/Water_World#project-info) -
-[Works Cited](https://github.com/a-woodbury/Water_World#works-cited)
+[Problem](https://github.com/a-woodbury/Glass_Half-full/blob/master/README.md#problem) - 
+[Data](https://github.com/a-woodbury/Glass_Half-full#data) -
+[Model](https://github.com/a-woodbury/Glass_Half-full#model) -
+[Results](https://github.com/a-woodbury/Glass_Half-full#results) - 
+[Recommendations](https://github.com/a-woodbury/Glass_Half-full#recommendations) - 
+[Future](https://github.com/a-woodbury/Glass_Half-full#future) - 
+[Project Info](https://github.com/a-woodbury/Glass_Half-full#project-info) -
+[Works Cited](https://github.com/a-woodbury/Glass_Half-full#works-cited)
 
 
 
 ## Problem
+
+In Tanzania, only approximately 50% of the Tanzanian population have access to safe water. According to 2015 Tanzania Water Point Mapping data, about 29 percent of all water points are non-functional, out of which 20 percent failed within the first year. Using data from Taarifa and the Tanzanian Minisitry of Water, we were interested in predicting which pumps in Tanzania are functional and which pumps need repair. An understanding of which waterpoints will fail can improve maintence operations and ensure that potable, clean water is available to communities across Tanzania.
 
 ## Data
 
@@ -54,14 +56,7 @@ Libraries    :
 
 <pre>
 Duration     : April 2020
-Last Update  : 05.20.2020
-</pre>
-
-<pre>
-Domain       : 
-Sub-Domain   : 
-Techniques   : 
-Application  : 
+Last Update  : 06.08.2020
 </pre>
 
 ## Works Cited
