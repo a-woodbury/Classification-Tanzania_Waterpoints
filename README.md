@@ -48,9 +48,20 @@ The original dataset is a ternary classification problem with three target class
 
 ## Results
 
+The most effective model was the RandomForest which classified the waterpoints 83% accurately.
+
+
 ### Improving the current model
 
 ## Future
+
+We have some ideas for expanding this project:
+
+- The majority of observations had 0 total static head; we would like to know if this is expected or missing data
+
+- We would also like data on waterpoint installation and maintenance cost
+
+- Can we use remote-linked meters to collect data on quality, amount, etc., or is this a ‘pipe’ dream?
 
 
 
