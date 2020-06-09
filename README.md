@@ -8,23 +8,20 @@ In Tanzania, only approximately 50% of the Tanzanian population have access to s
 
 ### Repository Navigation
 <pre>
-Technical Notebook : <a href=Link>Technical Notebook </a>
-Other Notebooks    : <a href=Link>Modeling</a>, <a href=https://github.com/a-woodbury/RxID/blob/master/RxID15_Data_Collection.ipynb>Data Collection Notebook </a>
-Dataset Links      : <a href=Link>NIH RxImage Portal</a>, <a href=Link>GCP Bucket</a>
-Presentation       : <a href=Link>Slide Deck</a>, <a href=https://docs.google.com/presentation/d/1f2bLza9GFhIXUAMudNsb00RTpHAwg5JegGIw2i2Jg8A/edit?usp=sharing>Google Slides</a>
-Other              : <a href=Link>Recreating the Model Guide</a>, <a href=Link>Drug Classes</a>
+Code               : <a href=https://github.com/a-woodbury/Water_World/tree/master/Jupyter_Notebooks/Modeling>Models </a>
+Presentation       : <a href=https://github.com/a-woodbury/Water_World/blob/master/Final_Presentation/Functionality_Prediction.pdf>Slide Deck</a>
 </pre>
 
 ### ReadME Navigation
 
-[Problem](https://github.com/a-woodbury/RxID/blob/master/README.md#problem) - 
-[Data](https://github.com/a-woodbury/RxID#data) -
-[Model](https://github.com/a-woodbury/RxID#model) -
-[Results](https://github.com/a-woodbury/RxID#results) - 
-[Recommendations](https://github.com/a-woodbury/RxID#recommendations) - 
-[Future](https://github.com/a-woodbury/RxID#future) - 
-[Project Info](https://github.com/a-woodbury/RxID#project-info) -
-[Works Cited](https://github.com/a-woodbury/RxID#works-cited)
+[Problem](https://github.com/a-woodbury/Water_World/blob/master/README.md#problem) - 
+[Data](https://github.com/a-woodbury/Water_World#data) -
+[Model](https://github.com/a-woodbury/Water_World#model) -
+[Results](https://github.com/a-woodbury/Water_World#results) - 
+[Recommendations](https://github.com/a-woodbury/Water_World#recommendations) - 
+[Future](https://github.com/a-woodbury/Water_World#future) - 
+[Project Info](https://github.com/a-woodbury/Water_World#project-info) -
+[Works Cited](https://github.com/a-woodbury/Water_World#works-cited)
 
 
 
